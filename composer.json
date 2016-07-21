@@ -10,7 +10,8 @@
         }
     ],    
     "require": {
-        "larakit/qf-text-twbs": "*"
+        "larakit/qf-text-twbs": "*",
+        "larakit/sf-momentjs": "*"
     },
     "autoload": {
         "files": [

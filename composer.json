@@ -1,0 +1,20 @@
+{
+    "name": "larakit/sf-bootstrap-daterangepicker",
+    "description": "[Larakit][lk-staticfiles] sf-bootstrap-daterangepicker",
+    "license": "MIT",
+    "version": "4.0.3",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],    
+    "require": {
+        "larakit/qf-text-twbs": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}

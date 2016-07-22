@@ -12,4 +12,5 @@
     ->usePackage('larakit/sf-jquery')
     ->usePackage('larakit/sf-momentjs')
     ->cssPackage('daterangepicker.css')
-    ->jsPackage('daterangepicker.js');
+    ->jsPackage('daterangepicker.js')
+    ->jsPackage('init.js');
